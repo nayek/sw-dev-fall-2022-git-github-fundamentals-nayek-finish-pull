@@ -1,3 +1,7 @@
+# Getting Started
+
+Maybe if I create a fork I can create a pull request against the main project. If so, i'll have done it.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
